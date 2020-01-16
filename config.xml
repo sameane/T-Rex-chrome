@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.adam000.trexchrome"
+    versionCode = "10"
+    version     = "1.5.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>T-Rex chrome</name>
+
+  <description>
+      Chrome's hidden T-Rex dinosaur game.
+  </description>
+
+  <author href="https://www.facebook.com/profile.php?id=100018955538711" email="count.adam000@gmail.com">
+      adam000
+  </author>
+<icon src="icon.png"/>
+
+</widget>
